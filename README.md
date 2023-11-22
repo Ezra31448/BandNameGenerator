@@ -7,6 +7,7 @@ Hello Pal!
 ## What I have learned
 ### print() function
 this is for print something to console for debugging something
+
 ```print("Hello World")```
 
 ## .venv
