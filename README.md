@@ -27,7 +27,9 @@ data type such as String, Integer and so on.
 ### String Manipulation
 
 The way to do with string such as \n ```print("Hello world\nHello world\nHello world")```
+
 f string
+
 ```print(f'''Hello {nameVar}''')```
 
 ### Input Function
