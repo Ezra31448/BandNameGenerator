@@ -14,6 +14,12 @@ this is for print something to console for debugging something
 
 ```print("Hello World")```
 
+#### Differance between single quote, double quote and triple quote
+
+there are many case to use
+
+learn more at : <https://www.askpython.com/python/string/difference-between-single-and-double-quotes-in-python>
+
 ### Variables
 
 data type such as String, Integer and so on.
