@@ -24,6 +24,17 @@ learn more at : <https://www.askpython.com/python/string/difference-between-sing
 
 data type such as String, Integer and so on.
 
+### String Manipulation
+
+The way to do with string such as \n ```print("Hello world\nHello world\nHello world")```
+f string
+```print(f'''Hello {nameVar}''')```
+
+### Input Function
+
+the input function it's for assign value to variable.
+```_name = input("What's your name?")```
+
 ## .venv
 
 python version 3.12.0
