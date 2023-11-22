@@ -5,7 +5,8 @@ This is a part of 100Days of Code : The Complete Python Pro Bootcamp for 2023
 Hello Pal!
 
 ## What I have learned
-
+### print() function
+```print("Hello World")```
 
 ## .venv
 python version 3.12.0
